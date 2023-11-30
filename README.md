@@ -23,4 +23,4 @@ Year: Year of Sale: 2013: last quarter(Sept,Oct,Nov,Dec) and 2014: entire year;
 
 Dashboard: Dashboard can be built from various aspects. This project is made from products aspect.
 
-
+Finance Data: This sheet consists of Raw Data(used for analytics), Dashboard: which consists of product dashboard: This comprises various aspects of product like sales,profit etc. and various other tabs are there showing different analytics.
